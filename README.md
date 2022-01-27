@@ -19,7 +19,7 @@ BankOfAmerica
 				String contractoSocialEletronic = "contractoSocialEletronic-MetaDados&Correçao";
 				
 				
-				double valorDeUs = 10.5;
+				float valorDeUS =  10500000;
 				String nome = "   "+"Moises Ferreira De Lima";
 				String certificadoMonetario = " "+"  Isso é para certificar e esclarecer que o MR moises ferreira de lima foi liberado com este certificado qualquer"
 				+"\n "+"  negocio proprio ou relacionados com  seus estudos e conhecimento de acordo com a edição de compensação provisória da "

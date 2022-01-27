@@ -40,7 +40,7 @@ BankOfAmerica
 				String presidenteBank = "  "+"presidente do bank"+"\n ";
 				String MrMoisesCert2 = nome+"\n "+"  "+cpf+"\n "+"  "+rg+"\n "+"  "+cnpj+"\n "+"  "+hotmail+"\n "+"  "+gmail+"\n\n "+"  "
 				+"Certificado"+certificadoMonetario+"\n\n "+"  "+"Informaçao futuras"+informaçoesFuturas+"\n\n "
-				+"  "+" Valor de US dolar"+"$"+valorDeUs+" "+"Milhoes"+"\n\n "+"  "+"Privilegios"+privilegios+"\n\n "+"  "+"Depositado"+depositoBank+"\n\b "+gabineteDoDiretorFbi+"\n "+presidenteBank;
+				+"  "+" Valor de US dolar"+"$"+valorDeUS+" "+"Milhoes"+"\n\n "+"  "+"Privilegios"+privilegios+"\n\n "+"  "+"Depositado"+depositoBank+"\n\b "+gabineteDoDiretorFbi+"\n "+presidenteBank;
 				String declareIrpf = MrMoisesCert2;
 				System.out.println(declareIrpf);
 				String declareBankOfAmerica = MrMoisesCert2;
